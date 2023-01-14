@@ -1,0 +1,76 @@
+/* Font */
+html{
+    margin: 0 ;
+    padding:0 ;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+    color:#44586e;  
+    margin: 0 ;
+    padding:0 ;   
+}
+.policeTitre{
+    font-family: 'Playfair Display', serif;
+}
+
+hr{
+    border-color: #44586e;
+    width: 50%;
+    height: 2px;
+}
+
+/* Shadow */
+.shadow_container{
+    box-shadow : 0px 2px 15px black;
+}
+.titreTextShadow{
+    text-shadow: 1px 1px 1px black;
+}
+/* Size */
+.logoSize{
+    width: 100px;
+}
+
+.container_style {
+    min-height: 500px;
+}
+.sizeNav{
+    font-size: 20px;
+}
+
+.navbar-nav{
+    margin:auto;
+}
+.nav-item{
+    margin-right: 25px !important;
+}
+.minCorpSize{
+   min-height:  500px;
+
+}
+
+.sizeTitre{
+    font-size: 26px;
+}
+/* Color */
+.colorMenu{
+    color: #f9a7a7 !important;
+}
+
+.colorPagesAdmin{
+    color:#02024da3;
+}
+.bgColor{
+    background-color: #ddd9d2 !important;
+} 
+
+/* Footer */
+.footerListSize{
+    font-size: 15px;
+}
+
+footer h3{
+    font-size: 20px;
+}
+
+
